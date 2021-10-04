@@ -1,0 +1,16 @@
+.not-found-container {
+  background-color: rgb(231, 231, 231);
+  text-align: center;
+  padding: 100px 0px;
+}
+
+.not-found-container h1 {
+  font-size: 60px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.not-found-container h3 {
+  font-size: 20px;
+  font-weight: 400;
+}

@@ -1,0 +1,14 @@
+.service-container {
+  margin: 50px 0px;
+}
+
+.service {
+  display: flex;
+  align-items: center;
+}
+
+.service img {
+  height: 200px;
+  margin-right: 40px;
+  border-radius: 10px;
+}
