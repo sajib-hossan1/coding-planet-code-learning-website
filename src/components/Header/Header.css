@@ -1,0 +1,22 @@
+.navbar {
+  background: linear-gradient(to right, #cb2d3e, #ef473a);
+}
+
+.logo {
+  height: 40px;
+}
+
+.nav-link {
+  margin-right: 18px;
+  color: rgb(255, 255, 255) !important;
+  font-size: 20px;
+  padding: 2px 16px;
+}
+
+.nav-link:hover {
+  color: rgb(255, 115, 115) !important;
+}
+
+.toogle {
+  background-color: rgb(255, 255, 255);
+}

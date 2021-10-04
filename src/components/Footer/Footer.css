@@ -1,0 +1,21 @@
+.footer {
+  background: linear-gradient(to right, #cb2d3e, #ef473a);
+  padding-top: 20px;
+  margin-top: 20px;
+  color: white;
+}
+
+.brand-name {
+  color: rgb(0, 217, 255);
+  font-weight: bold;
+}
+
+.f-icon a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.f-icon a:hover {
+  color: rgb(255, 115, 115);
+}
