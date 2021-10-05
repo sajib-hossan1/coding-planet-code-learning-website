@@ -8,7 +8,7 @@ const Course = (props) => {
     const {img,courseName,instructor,learn,about,price} = props.course;
     return (
         <Col sm={12} lg={4} md={6}>
-            <div className="card">
+            <div className="card h-auto">
                 <img src={img}  alt="" />
                 <div className="card-body">
                     <h2>Course name : {courseName}</h2>

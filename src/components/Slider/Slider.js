@@ -25,8 +25,8 @@ const Slider = () => {
             <Carousel.Item>
               <img className="d-block w-100" src={slideThird} alt="Third slide"/>
               <Carousel.Caption>
-                <h2>Learn World Class Coding</h2>
-                <p>We are teching you world class coding strategy</p>
+                <h2>World Class Coding</h2>
+                <p>We are teching world class coding strategy</p>
               </Carousel.Caption>
             </Carousel.Item>
         </Carousel>
