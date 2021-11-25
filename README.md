@@ -1,6 +1,6 @@
 # Coding Planet
 
-Live web site [Coding Planet](https://modest-darwin-5eee02.netlify.app/home).
+Live web site [Coding Planet](https://codingplanet-w.netlify.app/).
 
 ## Why this web site made for
 
